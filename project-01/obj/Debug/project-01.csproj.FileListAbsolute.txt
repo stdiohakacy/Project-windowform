@@ -1,0 +1,10 @@
+C:\Users\Stdioh-Akacy\Desktop\project-01\project-01\bin\Debug\project-01.exe.config
+C:\Users\Stdioh-Akacy\Desktop\Project-windowform\project-01\bin\Debug\project-01.exe.config
+C:\Users\Stdioh-Akacy\Desktop\Project-windowform\project-01\obj\Debug\project-01.csprojResolveAssemblyReference.cache
+C:\Users\Stdioh-Akacy\Desktop\Project-windowform\project-01\obj\Debug\project_01.Properties.Resources.resources
+C:\Users\Stdioh-Akacy\Desktop\Project-windowform\project-01\obj\Debug\project-01.csproj.GenerateResource.Cache
+C:\Users\Stdioh-Akacy\Desktop\Project-windowform\project-01\bin\Debug\project-01.exe
+C:\Users\Stdioh-Akacy\Desktop\Project-windowform\project-01\bin\Debug\project-01.pdb
+C:\Users\Stdioh-Akacy\Desktop\Project-windowform\project-01\obj\Debug\project-01.exe
+C:\Users\Stdioh-Akacy\Desktop\Project-windowform\project-01\obj\Debug\project-01.pdb
+C:\Users\Stdioh-Akacy\Desktop\Project-windowform\project-01\obj\Debug\project_01.frmMain.resources
